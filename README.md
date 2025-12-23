@@ -13,32 +13,6 @@ The goal is to transform raw, uncleaned maintenance records into a clean and str
 
 ---
 
-## 📂 Folder Structure
-
-aircraft_maintenance_data_cleaning_-_analysis/
-│
-├── data/
-│ ├── raw/
-│ │ ├── aircraft_maintenance_uncleaned.csv
-│ │ └── aircraft_maintenance_uncleaned.xlsx
-│ │
-│ └── cleaned/
-│ ├── aircraft_maintenance_cleaned.csv
-│ └── aircraft_maintenance_cleaned.xlsx
-│
-├── notebooks/
-│ └── aircraft_maintenance_cleaning.ipynb
-│
-├── scripts/
-│ └── generate_dataset.py
-│
-├── results/
-│ └── (analysis outputs if any)
-│
-└── README.md
-
----
-
 ## 🧰 Tools & Technologies Used
 - 🐍 Python  
 - 📊 Pandas  
